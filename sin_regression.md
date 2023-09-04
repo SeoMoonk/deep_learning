@@ -119,23 +119,20 @@ for i in range(epoch):
         print("Epoch:" + str(i) + "/" + str(epoch), "Error:" + str(total_error/n_data))
         
 ```
-    
+    ![output_7_0](https://github.com/SeoMoonk/deep_learning/assets/39723465/b5b00e4e-cbbb-44c3-8c26-00e9cb965033)
 
 
     Epoch:0/2001 Error:0.269095864634374
     
-
-
-    
-    
+![output_7_2](https://github.com/SeoMoonk/deep_learning/assets/39723465/9011dd11-ad43-4e98-a41e-c16357ad429d)
 
 
     Epoch:200/2001 Error:0.00943150286273521
     
 
 
-    
-![png](output_7_4.png)
+    ![output_7_4](https://github.com/SeoMoonk/deep_learning/assets/39723465/d1c67907-b407-48aa-89cf-e6183d88cee9)
+
     
 
 
@@ -144,7 +141,8 @@ for i in range(epoch):
 
 
     
-![png](output_7_6.png)
+![output_7_6](https://github.com/SeoMoonk/deep_learning/assets/39723465/15b1a622-87df-44cd-8675-a11527753369)
+
     
 
 
@@ -153,7 +151,8 @@ for i in range(epoch):
 
 
     
-![png](output_7_8.png)
+![output_7_8](https://github.com/SeoMoonk/deep_learning/assets/39723465/b081ff47-2bcb-4682-ba12-ff5cc6af7327)
+
     
 
 
@@ -162,7 +161,8 @@ for i in range(epoch):
 
 
     
-![png](output_7_10.png)
+![output_7_10](https://github.com/SeoMoonk/deep_learning/assets/39723465/d452dab1-037f-4f30-8541-975f6c11ce5c)
+
     
 
 
@@ -171,35 +171,34 @@ for i in range(epoch):
 
 
     
-![png](output_7_12.png)
+![output_7_12](https://github.com/SeoMoonk/deep_learning/assets/39723465/c6a2697c-cef3-48fb-bc44-0d7807c63bad)
+
     
 
 
     Epoch:1200/2001 Error:0.002924562120714828
     
 
+![output_7_14](https://github.com/SeoMoonk/deep_learning/assets/39723465/96418b19-3d26-4e7e-8e72-f5a03cb7fcef)
 
     
-![png](output_7_14.png)
-    
+
 
 
     Epoch:1400/2001 Error:0.0028079611547557675
     
 
 
-    
-![png](output_7_16.png)
-    
+![output_7_16](https://github.com/SeoMoonk/deep_learning/assets/39723465/39695e68-09c2-45ff-8d83-bbf761113647)
+
 
 
     Epoch:1600/2001 Error:0.003199002346202105
     
 
 
-    
-![png](output_7_18.png)
-    
+![output_7_18](https://github.com/SeoMoonk/deep_learning/assets/39723465/fd6ca665-c1b8-4e29-821d-0cd6fc7f615f)
+
 
 
     Epoch:1800/2001 Error:0.0027546725091276364
@@ -207,7 +206,8 @@ for i in range(epoch):
 
 
     
-![png](output_7_20.png)
+![output_7_20](https://github.com/SeoMoonk/deep_learning/assets/39723465/a7974007-8ca1-4ddb-897d-fa879a1797ac)
+
     
 
 
