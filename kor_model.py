@@ -122,4 +122,22 @@ h = model.fit(train_input, train_label, batch_size=BATCH_SIZE,
              callbacks=[early_stopping])
 
 
-# 
+# In[29]:
+
+
+plot_graphs(h, 'loss')
+
+
+# In[30]:
+
+
+plot_graphs(h, 'accuracy')
+
+
+# In[31]:
+
+
+test_input = np.load(open('data-in/nsmc_test_input.npy', 'rb'))
+test_label_data = np.load(open('data-in/nsmc_test_label.npy', 'rb'))
+
+model.evaluate(test_input, test_label_data)
